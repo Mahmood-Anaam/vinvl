@@ -1,0 +1,17 @@
+yacs
+cityscapesScripts
+clint
+torch
+torchvision
+transformers
+numpy
+opencv-python
+Pillow
+tqdm
+anytree
+pycocotools
+timm
+einops
+PyYAML
+cython
+ninja 
