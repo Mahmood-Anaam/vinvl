@@ -10,7 +10,7 @@ VinVL Visual Backbone provides a simplified API for feature extraction, bounding
 
 ### Option 1: Install via Colab
 ```bash
-!pip install https://github.com/Mahmood-Anaam/vinvl/raw/main/vinvl-0.1.0-cp310-cp310-linux_x86_64.whl --quiet
+!pip install https://github.com/Mahmood-Anaam/vinvl/raw/main/vinvl-0.1.0-cp310-cp310-linux_x86_64.whl
 ```
 
 ### Option 2: Install Directly via pip
@@ -61,7 +61,8 @@ img_url = "http://images.cocodataset.org/val2017/000000039769.jpg"
 image = Image.open(requests.get(img_url, stream=True).raw)
 
 image_features = feature_extractor(image)
-# Output: List of dictionaries with keys: "boxes", "classes", "scores", "img_feats", "spatial_features".
+# Output: List of dictionaries with keys:
+"boxes", "classes", "scores", "img_feats", "spatial_features".
 
 # Batch Image Feature Extraction
 batch = [
