@@ -11,7 +11,7 @@ VinVL Visual Backbone provides a simplified API for feature extraction, bounding
 ### Option 1: Install via Colab
 ```bash
 url = "https://github.com/Mahmood-Anaam/vinvl/raw/main/vinvl-0.1.0-cp310-cp310-linux_x86_64.whl"
-!pip install https://github.com/Mahmood-Anaam/vinvl/raw/main/vinvl-0.1.0-cp310-cp310-linux_x86_64.whl --q
+!pip install https://github.com/Mahmood-Anaam/vinvl/raw/main/vinvl-0.1.0-cp310-cp310-linux_x86_64.whl
 
 ```
 
