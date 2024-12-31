@@ -1,6 +1,6 @@
 # VinVL VisualBackbone
 
-<a href="https://colab.research.google.com/github/Mahmood-Anaam/vinvL/blob/main/notebooks/vinvl_demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/Mahmood-Anaam/vinvl/blob/main/notebooks/vinvl_demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Overview
 
