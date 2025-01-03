@@ -30,7 +30,7 @@ pip install git+https://github.com/Mahmood-Anaam/vinvl.git
 ### Option 4: Use Conda Environment
 ```bash
 conda env create -f environment.yml
-conda activate sg_benchmark
+conda activate vinvl
 
 !git clone https://github.com/Mahmood-Anaam/vinvl.git
 %cd vinvl
