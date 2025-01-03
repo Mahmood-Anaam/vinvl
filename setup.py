@@ -64,7 +64,6 @@ setup(
     "einops==0.8.0",
     "huggingface-hub==0.27.0",
     "ninja==1.11.1.3",
-    "numpy==2.2.1",
     "opencv-python==4.10.0.84",
     "pillow==11.1.0",
     "PyYAML==6.0.2",
@@ -93,5 +92,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.10",
+    python_requires=">=3.7",
 )
