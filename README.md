@@ -8,26 +8,19 @@ VinVL Visual Backbone provides a simplified API for feature extraction, bounding
 
 ## Installation
 
-### Option 1: Install via Colab
-```bash
-package_name = "vinvl-0.1.0-cp310-cp310-linux_x86_64.whl"
-!pip install https://github.com/Mahmood-Anaam/vinvl/raw/main/{package_name} --quiet
-
-```
-
-### Option 2: Install Directly via pip
+### Option 1: Install Directly via pip
 ```bash
 pip install git+https://github.com/Mahmood-Anaam/vinvl.git
 ```
 
-### Option 3: Clone Repository and Install in Editable Mode
+### Option 2: Clone Repository and Install in Editable Mode
 ```bash
 !git clone https://github.com/Mahmood-Anaam/vinvl.git
 %cd vinvl
 !pip install -e .
 ```
 
-### Option 4: Use Conda Environment
+### Option 3: Use Conda Environment
 ```bash
 conda env create -f environment.yml
 conda activate vinvl
