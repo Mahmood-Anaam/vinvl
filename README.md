@@ -22,11 +22,10 @@ pip install -e .
 
 #### Option 3: Use Conda Environment
 ```bash
-conda env create -f environment.yml
-conda activate vinvl
-
 git clone https://github.com/Mahmood-Anaam/vinvl.git
 cd vinvl
+conda env create -f environment.yml
+conda activate vinvl
 pip install -e .
 ```
 
