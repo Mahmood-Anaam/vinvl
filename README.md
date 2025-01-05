@@ -10,7 +10,7 @@ VinVL Visual Backbone provides a simplified API for feature extraction, bounding
 
 #### Option 1: Install Directly via pip
 ```bash
-pip install git+https://github.com/Mahmood-Anaam/vinvl.git
+pip install git+https://github.com/Mahmood-Anaam/vinvl.git --quiet
 ```
 
 #### Option 2: Clone Repository and Install in Editable Mode
